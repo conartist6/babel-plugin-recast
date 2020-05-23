@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-recast",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "files": [
+    "lib/**"
+  ],
+  "repository": "git@github.com:conartist6/babel-plugin-recast.git",
+  "author": "Conrad Buck <conartist6@gmail.com>",
+  "license": "MIT",
+  "description": "Wraps your babel parser in recast",
+  "dependencies": {
+    "@babel/helper-plugin-utils": "^7.8.3",
+    "recast": "^0.19.1"
+  },
+  "keywords": [
+    "babel",
+    "recast",
+    "codemod"
+  ]
+}
