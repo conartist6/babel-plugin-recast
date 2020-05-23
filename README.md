@@ -1,4 +1,4 @@
-# babel-parser-recast
+# babel-plugin-recast
 
 When you are using [babel](https://babeljs.io/) to transform code, allows you to leverage [recast](https://github.com/benjamn/recast/) to preserve as much formatting as possible during the transformation. Great for writing codemods.
 
